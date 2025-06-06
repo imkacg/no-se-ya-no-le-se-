@@ -41,10 +41,10 @@ img{
 </head>
 <body>
 <h1> Las cajas flotantes  </h1>
-<div id="cajaNegra"> Caja NEGRA <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> </div>
-<div id="cajaAzul"> Caja AZUL <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> </div>
-<div id="cajaVerde"> Caja VERDE <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> </div> 
-<div id="cajaRoja"> Caja ROJA <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> </div>
+<div id="cajaNegra"> <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> Caja NEGRA </div>
+<div id="cajaAzul"> <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> Caja AZUL </div>
+<div id="cajaVerde"> <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> Caja VERDE </div> 
+<div id="cajaRoja"> <img src="https://i.pinimg.com/736x/b2/6d/81/b26d8180c598e5414c36e2ddf208e1db.jpg"> Caja ROJA </div>
  
 </body>
 </html>
